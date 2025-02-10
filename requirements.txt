@@ -1,3 +1,0 @@
-pyexiv2
-pillow_heif
-tqdm
